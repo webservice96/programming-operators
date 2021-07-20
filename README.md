@@ -1,11 +1,14 @@
 <h1>Basics of Operators</h1>
 
 <div class="operator-list">
-    <ul>
-        <li>Arithmetic Operators</li>
-        <li>Relational Operators</li>
-        <li>Bitwise Operators</li>
-    </ul>
+    <ol>
+        <li>Arithmetic</li>
+        <li>Relational</li>
+        <li>Bitwise</li>
+        <li>Logical</li>
+        <li>Assignment</li>
+        <li>Increment</li>
+    </ol>
 </div>
 
 <!-- Arithmetic Operators: -->
