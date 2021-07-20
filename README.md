@@ -1,5 +1,6 @@
 <h1>Basics of Operators</h1>
 
+<h4>Arithmetic Operators:</h4>
 <table class="pd-table">
     <thead>
         <tr class="align-top">
