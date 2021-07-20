@@ -1,5 +1,13 @@
 <h1>Basics of Operators</h1>
 
+<div class="operator-list">
+    <ul>
+        <li><a href="#">Arithmetic Operators</a></li>
+        <li><a href="#">Relational Operators</a></li>
+        <li><a href="#">Bitwise Operators</a></li>
+    </ul>
+</div>
+
 <!-- Arithmetic Operators: -->
 <h4>Arithmetic Operators:</h4>
 <table class="pd-table">
